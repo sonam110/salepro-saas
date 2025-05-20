@@ -9,7 +9,7 @@
 # /public/certificates
 # /storage/*.key
  /vendor
-kpmg-dpr-api.zip
+
 app.zip
 vendor.zip
 .env
